@@ -1,15 +1,12 @@
 body{
-
-    font-family : Montserrat, sans-serif;
-    color: black;
-    background-image: url(../img/Img_Nave7.webp);
-  background-size: cover;
+    height: 100vh;
+    background-image: url(../img/Img_PROESAAerea.png);
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
 
-}
-.border{
-   border-color: rgb(190, 190, 88);
-}
+
 
 input{
     display: inline-block;
@@ -31,7 +28,6 @@ input{
     font-size: 20px;
     background-color: #F3F3F3;
     font-weight: bold;
-    opacity: .6
 }
   button {
     position: relative;
